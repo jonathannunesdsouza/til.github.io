@@ -1,7 +1,7 @@
 # Incluindo e removendo itens de Arrays
 >Como incluir e adicionar itens aos arrays.
 
-## Como incluir itens de um array?
+## Como incluir itens em um array?
 
 Vamos supor que temos o um array() lista de alimentos:
 
