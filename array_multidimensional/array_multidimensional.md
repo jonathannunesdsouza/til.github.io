@@ -20,3 +20,4 @@ lista_alimentos = Array()
 alimentos_salgados = Array('carne', 'frango','feijão')
 alimentos_doces = Array('pão doce', 'biscoito', 'bolo')
 ```
+Desta forma, criamos um Array() lista de alimentos, e dentro dele, inserimos dois outros Arrays p/ alimentos salgados e alimentos doces.
