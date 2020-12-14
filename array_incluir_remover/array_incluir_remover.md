@@ -3,7 +3,7 @@
 
 ## Como incluir itens de um array?
 
-Vamos supor que temos o um array() lista de alimentos
+Vamos supor que temos o um array() lista de alimentos:
 
 ```js
 var lista_alimentos = Array('arroz', 'feijão')
